@@ -1,0 +1,10 @@
+2017-Dec-14 12:08:49.961010 INFO [daemon] testcoin v1.1.1.1(0.1-g8edd99830)
+2017-Dec-14 12:08:49.963793 INFO [daemon] Module folder: /Users/zach/Desktop/testcoin/build/release/src/testcoin
+2017-Dec-14 12:08:49.965561 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2017-Dec-14 12:08:49.965651 ERROR [currency] Failed to generate genesis block
+2017-Dec-14 12:24:04.522528 INFO [daemon] testcoin v1.1.1.1(0.1-g8edd99830)
+2017-Dec-14 12:24:04.524341 INFO [daemon] Module folder: ./testcoin
+2017-Dec-14 12:24:04.526972 INFO [daemon] Initializing p2p server...
+2017-Dec-14 12:24:04.527450 INFO [node_server] Binding on 0.0.0.0:64970
+2017-Dec-14 12:24:04.527616 INFO [node_server] Net service binded on 0.0.0.0:64970
+2017-Dec-14 12:24:04.527707 INFO [node_server] Attempting to add IGD port mapping.
